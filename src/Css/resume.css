@@ -1,0 +1,85 @@
+.mycontainer{
+    width:900px;
+    height:850px;
+    background-color: aqua;
+    position: absolute;
+    left: 17%;
+
+}
+
+.topcontainer{
+    width: 900px;
+    height: 150px;
+    background-color: #94b8b8;
+    padding-top: 3%;
+}
+.bottomcontainer{
+    width: 900px;
+    height: 1000px;
+    background-color: #924242;
+}
+
+.leftcontainer{
+    width:600px;
+    height: 1000px;
+    position: absolute;
+    right: 300px;
+
+    background-color:  #ffccff;
+}
+
+.rightcontainer{
+    width: 300px;
+    height: 1000px;
+    position: absolute;
+    left: 600px;
+    background-color:   #ffccff;
+}
+
+.mydiv{
+    position: absolute;
+    left: 5%;
+}
+
+.myh1{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+}
+
+.mylist{
+    list-style: none; 
+}
+
+.mydiv2{
+    position: absolute;
+    left: 5%;
+    top: 165px;
+}
+
+.p1{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mydiv3{
+    position: absolute;
+    left: 10%;
+}
+
+.mydiv4{
+    position: absolute;
+    left: 11%;
+    top: 290px;
+}
+
+.mydiv5{
+    position: absolute;
+    left: 11%;
+    top: 490px;
+}
+
+.mydiv6{
+    position: absolute;
+    left: 11%;
+    top: 700px;
+}
+

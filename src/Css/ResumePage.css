@@ -1,0 +1,55 @@
+/* ug,jh;okmlhguyfugu */
+
+.mycontainer{
+    width: 900px;
+    height: 900px;
+    position: relative;
+    left: 17%;
+    background-color: #c2c2a3;
+}
+
+.myHeader{
+    width: 900px;
+    height: 15%;
+    background-color: #ffdf80;
+}
+
+.mydiv{
+    position: absolute;
+    left: 5%;
+    padding-top: 1%;
+    
+}
+
+.myheading1{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+}
+
+.mycontainer2{
+    width: 60%;
+    height: 100%;
+    background-color: #ff8080; 
+}
+
+
+
+.myheading2{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+    color: #3366ff;
+    padding: 2%;
+}
+
+.mylist{
+    list-style: none; 
+}
+
+.mydiv3{
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    float: left;
+    left: 65%;
+    background-color: #006600;
+}
